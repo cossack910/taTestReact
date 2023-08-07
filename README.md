@@ -33,4 +33,5 @@ docker exec -it tstestreact npm run dev
 | [#2](https://github.com/cossack910/tsTestReact/issues/2) | main.tsx について                              |
 | [#3](https://github.com/cossack910/tsTestReact/issues/3) | props                                          |
 | [#4](https://github.com/cossack910/tsTestReact/issues/4) | state                                          |
-| [#5](https://github.com/cossack910/tsTestReact/issues/5) | userRef                                        |
+| [#5](https://github.com/cossack910/tsTestReact/issues/5) | useRef                                         |
+| [#6](https://github.com/cossack910/tsTestReact/issues/6) | useState                                       |
