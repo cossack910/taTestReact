@@ -12,7 +12,7 @@ docker-compose run --rm tstestreact npm create vite@latest .
 ```
 
 ### コンテナ上で npm install, npm run build, npm run dev を実行
-
+git cloneした後も
 ```
 docker exec -it tstestreact npm install
 docker exec -it tstestreact npm run build
